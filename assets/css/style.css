@@ -1,0 +1,56 @@
+* {
+ box-sizing: border-box;
+}
+
+
+body {
+font-size: 18px;
+}
+
+h6 {
+color: black;
+font-size: 54px;
+
+}
+
+
+#info{
+	border: red solid 5px;
+	color: red;
+	margin: 25px;
+	background-image: url(../images/cb.jpg);
+	background-repeat: no-repeat;
+    background-position: right;
+    background-size:100% 100%; 
+
+}
+
+
+.yourGuesses {
+	background-image: url(../images/cbap.jpg);
+    background-position: center;
+    background-size: 125px, 125px;
+    color: red;
+    font-size: 50PX;
+    border: red solid 5px;
+    text-align: center;
+
+	
+}
+
+.helloChris{
+	background-color: url(../images/AP.jpg);
+	
+}
+
+.instructionPicture {
+
+	background-image: url(../images/background.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size:100% 100%; 
+    
+    
+    z-index: -1;
+    color:white;
+}
